@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/dat"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="30dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/lieu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="30dp"
+        />
+    <LinearLayout
+        android:id="@+id/d"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        >
+
+        <Button
+            android:id="@+id/inscr"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="40"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/vert"
+            android:text="Inscription"
+
+            />
+
+        <Button
+            android:id="@+id/sup"
+            android:layout_width="fill_parent"
+            android:layout_weight="40"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/Red"
+            android:text="Delete" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#ff5e00</color>
+    <color name="Red">#FF0000</color>
+    <color name="vert">#008000</color>
+    <color name="text_color">#00ccff</color>
+    <color name="edittext_border">#ff3d4552</color>
+    <color name="color_default">#fff0eff5</color>
+    <color name="divider">#ffcccccc</color>
+
+    <color name="buzz_bg">#ffd0d0d0</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="lavender">#8692f7</color>
+
+
+
+
+    <color name="buzzer_default_color">#00ccff</color>
+
+
+
+
+</resources>
